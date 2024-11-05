@@ -1,0 +1,4 @@
+Python programming can be found in many real world situations.
+Python can even be used to create games using pygame.
+Python is a powerful tool that consists of many useful techniques 
+such as strings, functions, loops, classes, and even more.
